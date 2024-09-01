@@ -10,4 +10,5 @@ Exploracao de dados de um dataset sobre o Salário de cientista de dados em 2023
 - Contagem de Valor por categoria
 - Faixa de salário de Ciência de dados entrem 2020 a 2023
 
-
+## Gráfico
+![Faixa de Maior Salario](https://github.com/Aclelino/ExploracaoDadoSalario/blob/main/archive/grafico.png)
